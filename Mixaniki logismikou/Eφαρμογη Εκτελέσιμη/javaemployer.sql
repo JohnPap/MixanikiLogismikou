@@ -57,5 +57,3 @@ CREATE TABLE `users` (
 -- Records of users
 -- ----------------------------
 INSERT INTO `users` VALUES ('1', 'admin', 'pass');
-INSERT INTO `users` VALUES ('1', 'hr', '1453');
-INSERT INTO `users` VALUES ('1', 'hr1', '1234');
